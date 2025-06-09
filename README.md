@@ -1,1 +1,2 @@
 # Autism-Prediction-using-Machine-Learning
+This project focuses on predicting Autism Spectrum Disorder (ASD) using machine learning techniques. It uses behavioral and demographic data from a public dataset and applies models like Decision Tree, Random Forest, and XGBoost. After preprocessing and hyperparameter tuning, models are evaluated using metrics like accuracy, precision, recall, and F1 score to identify the most effective predictor for ASD tendencies.
